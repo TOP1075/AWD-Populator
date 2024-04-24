@@ -1,0 +1,14 @@
+Award code,Award Rule code,Scheme code,Level code,Rule Existence Class code,Rule Class code,Description
+BAS1,0001,MODSCH,H,REQ,COMP,360 total credits passed - COE
+BAS1,0002,MODSCH,H,REQ,COMP,At least 100 credits at level H
+BAS1,0003,MODSCH,H,REQ,COMP,No more than 60 credits of electives
+BAT1,0001,MODSCH,,REQ,COMP,360 total credits passed - COE
+BAT1,0002,MODSCH,,REQ,COMP,At least 100 credits at level H
+BAT1,0003,MODSCH,,REQ,COMP,No more than 60 credits of electives
+MAS1,001,MODSCH,M,REQ,COMP,180 credits level M
+MENGS1,00001,MODSCH,M,REQ,COMP,600 credits passed - COE
+MENGS1,00002,MODSCH,M,REQ,COMP,At least 120 credits level M
+MENGS1,00003,MODSCH,M,REQ,COMP,No more than 80 elective credits
+MENGT1,00001,MODSCH,M,REQ,COMP,600 credits passed - COE
+MENGT1,00002,MODSCH,M,REQ,COMP,At least 120 credits level M
+MENGT1,00003,MODSCH,M,REQ,COMP,No more than 80 elective credits

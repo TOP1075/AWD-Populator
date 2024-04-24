@@ -1,0 +1,14 @@
+Award code,Award Rule code,Sequence number,Rule Taking Flag,Minimum credits,Maximum credits,Filler Field,Module Type Collection,Oper,Apply operator,Level Collection Code,Form Module Collection,Mark & Grade Collection,Selection STA Collection
+BAS1,0001,001,P,360.00,,,,,,,,,COE
+BAS1,0002,001,P,100.00,,,,,,H,,,COE
+BAS1,0003,001,P,  0.00, 60.00,,,,,,,,E
+BAT1,0001,001,P,360.00,,,,,,,,,COE
+BAT1,0002,001,P,100.00,,,,,,H,,,COE
+BAT1,0003,001,P,  0.00, 60.00,,,,,,,,E
+MAS1,001,001,P,180.00,,,,,,M,,,COE
+MENGS1,00001,001,P,480.00,720.00,,,,,,,,COE
+MENGS1,00002,001,P,120.00,,,,,,M,,,COE
+MENGS1,00003,001,P,, 80.00,,,,,,,,E
+MENGT1,00001,001,P,480.00,720.00,,,,,,,,COE
+MENGT1,00002,001,P,120.00,,,,,,M,,,COE
+MENGT1,00003,001,P,, 80.00,,,,,,,,E

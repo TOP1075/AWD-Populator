@@ -1,0 +1,67 @@
+Award code,Classification code,Short name,Full name,Marks,Marks,Marks,Rank,Calculated Class
+BAS1,1,FIRST,first class honours,69.50,,100.00,01,Y
+BAS1,1D,FIRST DISTINC,first class honours (with distinction),,,,00,N
+BAS1,2.1,UPPER SECOND,second class honours: division one,59.50,,69.49,03,Y
+BAS1,2.1B,BORDERLINE,second class honours: division one (borderline first),67.50,,69.49,02,Y
+BAS1,2.2,LOWER SECOND,second class honours: division two,49.50,,59.49,05,Y
+BAS1,2.2B,BORDERLINE,second class honours: division two (borderline 2.1),57.50,,59.49,04,Y
+BAS1,3,THIRD,third class honours,39.50,,49.49,07,Y
+BAS1,3B,BORDERLINE,third class honours (borderline 2.2),47.50,,49.49,06,Y
+BAS1,AEG,AEGROTAT,Aegrotat,,,,09,N
+BAS1,AEGH,AEGROTAT,Aegrotat with honours,,,,09,N
+BAS1,FAIL,FAIL,Fail,,,,15,N
+BAS1,FAILB,FAILB,Fail Borderline 3rd,37.50,,39.49,08,Y
+BAS1,FNR,FAIL NORESIT,Fail - Resit not Permitted,,,,17,N
+BAS1,FOR,RESIT FAIL,Fail - On Resit,,,,18,N
+BAS1,FRP,FAIL RESIT,Fail - Resit Permitted,,,,16,N
+BAS1,ORD,ORDINARY,The Ordinary degree of,,,,10,N
+BAS1,PASS,PASS,pass,,,,12,N
+BAS1,PUG,PASS UG,pass,,,,11,N
+BAT1,1,FIRST,first class honours,69.50,,100.00,01,Y
+BAT1,1D,FIRST DISTINC,first class honours (with distinction),,,,00,N
+BAT1,2.1,UPPER SECOND,second class honours: division one,59.50,,69.49,03,Y
+BAT1,2.1B,BORDERLINE,second class honours: division one (borderline first),67.50,,69.49,02,Y
+BAT1,2.2,LOWER SECOND,second class honours: division two,49.50,,59.49,05,Y
+BAT1,2.2B,BORDERLINE,second class honours: division two (borderline 2.1),57.50,,59.49,04,Y
+BAT1,3,THIRD,third class honours,39.50,,49.49,07,Y
+BAT1,3B,BORDERLINE,third class honours (borderline 2.2),47.50,,49.49,06,Y
+BAT1,AEG,AEGROTAT,Aegrotat,,,,09,N
+BAT1,AEGH,AEGROTAT,Aegrotat with honours,,,,09,N
+BAT1,FAIL,FAIL,Fail,,,,15,N
+BAT1,FAILB,FAILB,Fail Borderline 3rd,37.50,,39.49,08,Y
+BAT1,FNR,FAIL NORESIT,Fail - Resit not Permitted,,,,17,N
+BAT1,FOR,RESIT FAIL,Fail - On Resit,,,,18,N
+BAT1,FRP,FAIL RESIT,Fail - Resit Permitted,,,,16,N
+BAT1,ORD,ORDINARY,The Ordinary degree of,,,,10,N
+BAT1,PASS,PASS,pass,,,,12,N
+BAT1,PUG,PASS UG,pass,,,,11,N
+MAS1,AEGP,PG AEGROTAT,Aegrotat,,,,05,N
+MAS1,FAIL,FAIL,Fail,0.00,,49.49,04,Y
+MAS1,PDPG,PG PASS W DIST,Distinction,69.50,,100.00,01,Y
+MAS1,PMPG,PG PASS W MERIT,Merit,59.50,,69.49,02,Y
+MAS1,PPG,PG LEVEL PASS,Pass,49.50,,59.49,03,Y
+MENGS1,1,FIRST,first class honours,69.50,,100.00,01,Y
+MENGS1,1D,FIRST DISTINC,first class honours (with distinction),,,,00,N
+MENGS1,2.1,UPPER SECOND,second class honours: division one,59.50,,69.49,03,Y
+MENGS1,2.1B,BORDERLINE,second class honours: division one (borderline first),67.50,,69.49,02,Y
+MENGS1,2.2,LOWER SECOND,second class honours: division two,49.50,,59.49,05,Y
+MENGS1,2.2B,BORDERLINE,second class honours: division two (borderline 2.1),57.50,,59.49,04,Y
+MENGS1,3,THIRD,third class honours,39.50,,49.49,07,Y
+MENGS1,3B,BORDERLINE,third class honours (borderline 2.2),47.50,,49.49,06,Y
+MENGS1,AEG,AEGROTAT,Aegrotat,,,,09,N
+MENGS1,AEGH,AEGROTAT,Aegrotat with honours,,,,09,N
+MENGS1,FAIL,FAIL,Fail,,,,15,N
+MENGS1,FAILB,FAILB,Fail Borderline 3rd,37.50,,39.49,08,Y
+MENGS1,FNR,FAIL NORESIT,Fail - Resit not Permitted,,,,17,N
+MENGS1,FOR,RESIT FAIL,Fail - On Resit,,,,18,N
+MENGS1,FRP,FAIL RESIT,Fail - Resit Permitted,,,,16,N
+MENGS1,ORD,ORDINARY,The Ordinary degree of,,,,10,N
+MENGS1,PASS,PASS,pass,,,,12,N
+MENGS1,PUG,PASS UG,pass,,,,11,N
+MENGT1,1,FIRST,first class honours,69.50,,100.00,01,Y
+MENGT1,1D,FIRST DISTINC,first class honours (with distinction),,,,00,N
+MENGT1,2.1,UPPER SECOND,second class honours: division one,59.50,,67.49,03,Y
+MENGT1,2.1B,BORDERLINE,second class honours: division one (borderline first),67.50,,69.49,02,Y
+MENGT1,2.2,LOWER SECOND,second class honours: division two,49.50,,57.49,05,Y
+MENGT1,2.2B,BORDERLINE,second class honours: division two (borderline 2.1),57.50,,59.49,04,Y
+MENGT1,FAIL,FAIL,Fail,0.00,,49.49,06,Y
