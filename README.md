@@ -1,4 +1,4 @@
-#AWD Record Populator, for use with SITS (Tribal Group)
+# AWD Record Populator, for use with SITS (Tribal Group)
 
 Creates AWR, AWB, and AWC records based on templates. The created records are stored in the exact CSV format required for SITS upload.
 
