@@ -17,30 +17,21 @@ awr_templates = pd.read_csv("templates/AWR_TEMPLATES.CSV")
 awb_templates = pd.read_csv("templates/AWB_TEMPLATES.CSV")
 awc_templates = pd.read_csv("templates/AWC_TEMPLATES.CSV")
 
-# Initialise list of template codes
+# Initialise list of template codes#
+""" replace these with the AWD codes for your templates """
 template_codes = ["BAS1", "MAS1", "MENGS1", "BAT1", "MENGT1"]
 
 # Get list of AWD codes from CSV as DF; split into series by AWD template stored in dictionary
 awd_codes_full = pd.read_csv("AWD_CODES.CSV")
 awd_codes = {}
-
 for code in template_codes:
     # awd_codes[code] = pd.DataFrame.loc[(awd_codes_full['Template'] == code)]
     awd_codes[code] = awd_codes_full[awd_codes_full['Template'] == code]
 
-""" testing AWD code split """    
-for code in template_codes:
-    awd_codes[code].to_numpy()
-
-""" ALT - split into series """
-print(f"\nTesting AWD series split\n")
 awd_codes_series = {}
 for code in template_codes:
     awd_codes_series[code] = awd_codes_full[awd_codes_full['Template'] == code]['Award code']
     
-for code in template_codes:
-    print(f"{code}:\n{awd_codes_series[code]}")
-
 # For Loop 1 - for each template code
 for code in template_codes:
     awr_t = awr_templates[awr_templates['Award code'] == code]
@@ -57,10 +48,6 @@ for code in template_codes:
         for i in range(3):
             """ create copy of template, update 'Award code', add to existing DataFrame or add into list """
             df = templates[i].copy()
-
-            """ Make conditional formatting updates to handle distinct number formats """
-            # df[] = df[].astype(str).str.zfill(3)
-            # df[] = df[].round(2)
 
             # if AWR
             if i == 0:   
@@ -79,7 +66,6 @@ for code in template_codes:
                 df["Marks.1"] = df["Marks.1"].apply(format_to_two)
                 df["Marks.2"] = df["Marks.2"].apply(format_to_two)
                 df["Rank"] = df["Rank"].astype(str).str.zfill(2)
-
 
             for inx, row in df.iterrows():
                 row['Award code'] = awd
