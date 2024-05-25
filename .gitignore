@@ -1,7 +1,5 @@
 output/import_AWBs.csv
 output/import_AWCs.csv
 output/import_AWRs.csv
-templates/AWD_TEMPLATES.CSV
-templates/AWC_TEMPLATES.CSV
-templates/AWR_TEMPLATES.CSV
+templates/
 AWD_CODES.csv
